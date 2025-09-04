@@ -67,3 +67,9 @@ The case study focuses on **ExpressWay Logistics**, a courier and warehousing pr
 ---
 
 ## 📂 Repository Structure
+customer-sentiment-genai-aws/
+│
+├── ExpressWay_Sentiment_AWS_Bedrock.ipynb   # Final project notebook
+├── courier-service_reviews.csv              # Demo dataset (131 reviews)
+└── README.md                                # Project overview
+
