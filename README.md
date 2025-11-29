@@ -1,8 +1,7 @@
 # Customer Sentiment Analysis with Generative AI (AWS Bedrock + Python)
 
 ## 📌 Project Overview
-This project was completed as the **final capstone** for the *Generative AI for Business with AWS* program (Sept 2024).  
-It combines **machine learning** (Python + scikit-learn) with **Generative AI** (AWS Bedrock Claude API) to analyze customer feedback for a logistics company and generate actionable insights.
+This project was completed as the **final capstone** for the *Generative AI for Business with AWS* program (Sept 2024). It combines **machine learning** (Python + scikit-learn) with **Generative AI** (AWS Bedrock Claude API) to analyze customer feedback for a logistics company and generate actionable insights.
 
 The case study focuses on **ExpressWay Logistics**, a courier and warehousing provider facing delivery delays, operational inefficiencies, and increasing customer complaints. By applying **sentiment analysis and AI-powered outputs**, the project demonstrates how businesses can monitor satisfaction, automate support, and optimize operations.
 
